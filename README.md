@@ -35,7 +35,7 @@ The app development is achieved by utilizing Java, DropBox API, and encryption s
 * Click the *Login* button
 
 ![Register](Screens/CreateUser.png)
-![Register](Screens/CreatePassword.png)
+![Register](Screens/CreateUserPassword.png)
 
 **To register a new user:**
 
