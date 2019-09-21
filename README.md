@@ -81,19 +81,18 @@ The Remote view shows the files that are currently in the user's DropBox account
 ![Remote View](Screens/RemoteView.png)
 
 
-## DropBox View
-
-The view of the user's DropBox account shows a folder named ZeroKnowledge storing the encrypted files that have been uploaded from the app.
-
-![DropBox View](Screens/DropBoxView.png)
-
-
 ## Settings View
 
 The Settings view shows the user's selected cloud storage provider, Access Token to allow the app to interface with DropBox, automatic logout time, the ability to automatically upload files when encrypted and enforce passwords on encrypted files and the ability to *Delete Account*. 
 
 ![Settings](Screens/Settings.png) 
 
+
+## DropBox View
+
+The view of the user's DropBox account shows a folder named ZeroKnowledge storing the encrypted files that have been uploaded from the app.
+
+![DropBox View](Screens/DropBoxView.png)
 
 # Run
 
